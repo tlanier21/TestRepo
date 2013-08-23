@@ -4,3 +4,4 @@ Frank McCown
 Josh Cruz
 Caleb Williams
 Zack Wilson
+Travis Lanier
